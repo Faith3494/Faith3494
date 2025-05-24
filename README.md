@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-[![Cl0udG0d's github stats](https://github-readme-stats.vercel.app/api?username=Cl0udG0d)](https://github.com/Faith3494)
+[![Cl0udG0d's github stats](https://github-readme-stats.vercel.app/api?username=Faith3494)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **Faith3494/Faith3494** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
