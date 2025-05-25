@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋，我是 Faith3494</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=800&lines=写bug像下饺子，改bug像挖地雷，bug不动我先动，反正不是我的错" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=800&lines=写bug像下饺子，改bug像挖地雷，bug不动我先动，反正不是我的错。" />
 </p>
 
 ---
