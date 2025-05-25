@@ -50,15 +50,6 @@
 ---
 
 ## ⌛ 最近的编码时间（WakaTime）
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Faith3494&theme=tokyonight" />
-</p>
-
----
-
-📊 **本周我花在编程上的时间**
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
