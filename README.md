@@ -57,11 +57,11 @@
 
 ---
 
-## 🐍 贡献蛇蛇爬动中...
+📊 **本周我花在编程上的时间**
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Faith3494/Faith3494/output/github-contribution-grid-snake.svg" alt="snake"/>
-</p>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 
 ---
