@@ -60,8 +60,9 @@
 ## 🐍 贡献蛇蛇爬动中...
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Faith3494/Faith3494/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Faith3494/Faith3494/output/github-contribution-grid-snake.svg" alt="snake"/>
 </p>
+
 
 ---
 
