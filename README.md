@@ -1,5 +1,5 @@
 <!-- 顶部大标题 + 动态文字 -->
-<h1 align="center">Hi 👋，我是 Faith3494</h1>
+<h1 align="center">Hi 👋，我是 菜菜的小拜</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=我不是菜，我是调味包;代码全绿才不真实，我怀疑我没 push" />
 
