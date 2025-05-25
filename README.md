@@ -33,7 +33,7 @@
 ## 🏆 GitHub 成就墙
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=你的GitHub用户名&theme=monokai&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Faith3494&theme=monokai&row=1&column=6" />
 </p>
 
 ---
@@ -41,11 +41,11 @@
 ## 📈 我的 GitHub 数据（都是真实摸鱼的痕迹）
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=你的GitHub用户名&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Faith3494&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的GitHub用户名&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faith3494&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -62,7 +62,7 @@
 
 ## 📫 联系方式（除了鸽子啥都能回）
 
-- GitHub: [@你的GitHub用户名](https://github.com/你的GitHub用户名)
+- GitHub: [@你的GitHub用户名](https://github.com/Faith3494)
 - Email: your_email@example.com
 
 ---
@@ -70,7 +70,7 @@
 ## 🐣 彩蛋时刻
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/你的GitHub用户名/你的GitHub用户名/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/Faith3494/Faith3494/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
 
 ---
@@ -78,7 +78,7 @@
 ## 👀 谁来看过我？
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=你的GitHub用户名&style=flat-square&color=blue" alt="访客统计">
+  <img src="https://komarev.com/ghpvc/?username=Faith3494&style=flat-square&color=blue" alt="访客统计">
 </p>
 
 ---
