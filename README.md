@@ -53,9 +53,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 May 2025 - To: 25 May 2025
+From: 19 May 2025 - To: 26 May 2025
 
-Java   0 secs          █████████████████████████   100.00 %
+Vue.js       20 mins         █████████████████▒░░░░░░░   69.96 %
+Java         7 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.31 %
+TypeScript   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
 ```
 
 <!--END_SECTION:waka-->
