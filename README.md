@@ -51,7 +51,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 May 2025 - To: 30 May 2025
+From: 24 May 2025 - To: 31 May 2025
 
 Java             3 hrs 27 mins   █████████████░░░░░░░░░░░░   51.78 %
 Vue.js           1 hr 44 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.97 %
