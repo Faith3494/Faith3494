@@ -51,10 +51,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 June 2025 - To: 20 June 2025
+From: 14 June 2025 - To: 21 June 2025
 
-Java   4 mins          ███████████████████████▒░   93.64 %
-XML    0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 %
+Java   0 secs          █████████████████░░░░░░░░   68.15 %
+XML    0 secs          ████████░░░░░░░░░░░░░░░░░   31.85 %
 ```
 
 <!--END_SECTION:waka-->
