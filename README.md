@@ -14,7 +14,7 @@
 
 ## 👽 关于我：Tigro 的地球观测站
 
-<img src="https://raw.githubusercontent.com/Faith3494/Faith3494/main/assets/stitch_happy.gif" width="120" align="left" style="margin-right: 15px;"/> **欢迎来到我的秘密基地！** 当我不在四处捣乱或者寻找食物的时候，我通常潜伏在这里，研究地球人称之为“代码”的神秘符文。
+> <img src="https://raw.githubusercontent.com/Faith3494/Faith3494/main/assets/stitch_happy.gif" width="50" align="left" style="margin-right: 15px;"/> **欢迎来到我的秘密基地！** 当我不在四处捣乱或者寻找食物的时候，我通常潜伏在这里，研究地球人称之为“代码”的神秘符文。
 
 强霸博士说我是一名**嵌入式系统工程师**，但其实我只是一只热爱以下活动的毛茸茸外星生物：
 
