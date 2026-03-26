@@ -1,56 +1,44 @@
-<h1 align="center">Hi 👋，我是 菜菜的小拜</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=800&lines=写bug像下饺子，改bug像挖地雷，bug不动我先动，反正不是我的错。" />
-</p>
-
----
-
-## 🧙 关于我
-
-- 🌱 新晋搬砖工，主攻 C嘎嘎 + Python 前端 + Vue 糊图
-- 🐍 擅长写代码，也擅长写 bug，但我都会调！
-- 🧰 技术关键词：`Spring Boot`、`Vue`、`Python`、`Flask`、`Django`、`嵌入式开发`、`爬虫`
-- 🚀 梦想是让代码少报错，运行一次就成功（听说有人实现过）
-- 💡 熟练掌握 Ctrl+C 和 Ctrl+V，偶尔还会自己敲
-
----
-
-## 🚀 我的工具箱
+#  Hello, I'm 小脑斧 (tigro) 
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C/C%2B%2B-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=333333&center=false&vCenter=true&width=600&lines=Embedded+Systems+Engineer;PCB+Designer;Minimalist+Aesthetic+Seeker" />
 </p>
 
 ---
 
-## 🏆 GitHub 成就墙
+### 👨🏻‍💻 Profile
+一名追求极致简洁的**嵌入式系统工程师**。专注于构建高效的底层代码与优雅的硬件电路，信奉“Less is more”的设计哲学。
 
+* **Focus:** Embedded Systems / PCB Design / Firmware Optimization
+* **Aesthetic:** Apple-style Minimalism / Industrial Design
+* **Daily:** C++ / Python / Logic Analyzers
+
+---
+
+### 🛠 Tech Stack
+> 使用更统一的扁平化图标，保持视觉的一致性。
+
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Languages** | `C/C++` `Python` `Assembly` |
+| **Hardware** | `PCB Layout` `STM32` `ESP32` `RTOS` |
+| **Frameworks** | `Vue.js` `Flask` `Spring Boot` |
+
+---
+
+### 📊 GitHub Analysis
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Faith3494&theme=monokai&row=1&column=6" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Faith3494&show_icons=true&theme=transparent&title_color=000000&text_color=333333&icon_color=555555&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faith3494&layout=compact&theme=transparent&title_color=000000&text_color=333333&hide_border=true" width="40%" />
 </p>
 
 ---
 
-## 📈 我的 GitHub 数据
-
+### 🏆 Achievements
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Faith3494&show_icons=true&theme=tokyonight" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faith3494&layout=compact&theme=tokyonight" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Faith3494&theme=flat&row=1&column=6&margin-w=15&background=ffffff00" />
 </p>
 
-
-
-## 👀 谁偷偷看我了？
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Faith3494&style=flat-square&color=blue" alt="访问量统计" />
+  <img src="https://komarev.com/ghpvc/?username=Faith3494&label=VIEWS&style=flat-square&color=lightgrey" />
 </p>
-
----
-
