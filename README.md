@@ -1,79 +1,80 @@
-<h1 align="center"> Hi 👋, I'm 小脑斧 (Stitch in Disguise)</h1>
+<h1 align="center">Aloha 🌺！我是 小脑斧 (Tigro) </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3pjdW12Z2d1M2Q0eWkyeGt5OGVtdDNwOWp0OTJzdzd3cmNmdDRjbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/85LqFm93v07M4i4W2g/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3pjdW12Z2d1M2Q0eWkyeGt5OGVtdDNwOWp0OTJzdzd3cmNmdDRjbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/85LqFm93v07M4i4W2g/giphy.gif" width="180" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2E86C1&center=true&vCenter=true&multiline=true&width=800&lines=Experiment+626+Status%3A+Active;Primary+Objective%3A+Creating+Chaos+(and+sometimes+code);Secondary+Objective%3A+Eating+all+the+BUGS!+(Omnomnom);Ohana+means+family.+Nobody+gets+left+behind+or+forgotten...+(Except+that+one+bug)" />
+  <a href="https://github.com/Faith3494">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+SC&weight=600&size=20&duration=3000&pause=1000&color=2E86C1&center=true&vCenter=true&width=800&lines=代号：实验品+626+(Tigro)+已上线！;主线任务：写代码（偶尔制造点小混乱）;支线任务：吃掉所有的+BUG！(嗷呜~);Ohana+就是家人，不抛弃，不放弃...;（除了那个死活调不出来的+Bug+🙃）" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
 
-## 🌺 Aloha! About Experiment 626
+## 👽 关于我：Tigro 的地球观测站
 
-> <img src="https://raw.githubusercontent.com/Faith3494/Faith3494/main/assets/stitch_happy.gif" width="100" align="left" style="margin-right: 15px;"/> **Welcome to my secret hideout!** When I'm not busy causing mischief or searching for my next meal, I'm here, experimenting with the strange electronic artifacts humans call "code." 
+> <img src="https://raw.githubusercontent.com/Faith3494/Faith3494/main/assets/stitch_happy.gif" width="120" align="left" style="margin-right: 15px;"/> **欢迎来到我的秘密基地！** 当我不在四处捣乱或者寻找食物的时候，我通常潜伏在这里，研究地球人称之为“代码”的神秘符文。
 
-My creator, Dr. Jumba, says I'm a genetic experiment, but between us, I'm just a fluffy being who enjoys:
+强霸博士说我是一名**嵌入式系统工程师**，但其实我只是一只热爱以下活动的毛茸茸外星生物：
 
-* **Eating Bugs:** The larger, the better! Especially the ones that break my "experiments." (C++ / Python / Java bugs are my favorite!)
-* **Shredding Code:** Sometimes, I get a little too excited and "accidentally" delete... or create... new features.
-* **Messing with Wires:** Embedded systems? Yes, I love playing with those tiny blinking things and the spaghetti of wires.
-* **Building Chaos:** They call it "software development," I call it a very organized form of chaos.
+* 🐞 **狂啃 Bug**：C++ 和 Python 里的 Bug 嘎嘣脆！Bug 不动我先动，一口一个小朋友。
+* ⚡ **玩弄电线与芯片**：沉迷 PCB 画板，喜欢各种闪闪发光的 STM32 / ESP32 小零件。
+* 🌪️ **全栈大乱斗**：偶尔也会跑到前端（Vue）和后端（Spring Boot / Flask）去制造一点“有组织有纪律的混乱”。
+* 💙 **Ohana 精神**：代码写得再烂也是自己写的，含着泪也要调到运行一次就成功！
 
 ---
 
-## 🛠️ Tools of Destruction (My "Toys")
+## 🛠️ 我的“破坏”工具箱
 
-> Jumba taught me to use these tools for maximum impact. Or maybe to fix things I broke. It's unclear.
+> 强霸博士教我用这些工具来创造（或者修理我弄坏的东西）。
 
 <p align="center">
   <img src="https://img.shields.io/badge/C/C%2B%2B-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PCB_Layout-333333?style=for-the-badge&logo=pcb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PCB_Layout-333333?style=for-the-badge&logo=altium&logoColor=white"/>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=white"/>
 </p>
 
 ---
 
-## 📈 Performance Analysis (Did Jumba Check This?)
-
-> According to the Earth Federation's tracking systems, here's how Experiment 626 is doing:
+## 📈 实验品战力评估 (地球联邦追踪数据)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Faith3494&show_icons=true&theme=nord&title_color=21618C&text_color=2E86C1&icon_color=21618C&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Faith3494&show_icons=true&theme=nord&title_color=21618C&text_color=2E86C1&icon_color=21618C&hide_border=true&locale=cn" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faith3494&layout=compact&theme=nord&title_color=21618C&text_color=2E86C1&hide_border=true" width="40%" />
 </p>
 
 ---
 
-## 🏆 Trophies (My Collection of Shiny Things)
+## 🏆 收集的亮闪闪战利品
 
-> I collected these. Some were given, some... I found.
+> 有些是别人给的，有些……是我顺手拿来玩的。
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Faith3494&theme=oceanic&row=1&column=6&margin-w=15&background=ffffff00" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Faith3494&label=STITCH_SPOTTED&style=flat-square&color=21618C" />
-</p>
-
 ---
 
-### 🤝 Join the Ohana!
+## 🤝 加入 Ohana！
 
-**Ohana means family.** And here at my base, anyone who wants to create some chaos or eat some bugs is welcome.
+**Ohana 就是家人。** 在我的基地，欢迎任何想一起搞点创造（或者一起吃 Bug）的朋友！
 
-* Got a project you want to break? (I can help!)
-* Want to study the art of bug-omnomnom-ing?
-* Or just want to talk about how annoying it is when the code doesn't work?
+* 有想让我帮忙“搞砸”的项目吗？
+* 想一起研究怎么把电路板画得更漂亮吗？
+* 或者只是想吐槽一下今天遇到的离谱 Bug？随时找我！
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3pjdW12Z2d1M2Q0eWkyeGt5OGVtdDNwOWp0OTJzdzd3cmNmdDRjbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/43yby7i0i5i5M28L5S/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3pjdW12Z2d1M2Q0eWkyeGt5OGVtdDNwOWp0OTJzdzd3cmNmdDRjbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/43yby7i0i5i5M28L5S/giphy.gif" width="120"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Faith3494&label=偷偷看Tigro的人数&style=flat-square&color=21618C" />
 </p>
