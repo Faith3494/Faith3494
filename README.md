@@ -1,80 +1,242 @@
-<h1 align="center">Aloha 🌺！我是 小脑斧 (Tigro) </h1>
+# 小脑斧（Tigro）🐯
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3pjdW12Z2d1M2Q0eWkyeGt5OGVtdDNwOWp0OTJzdzd3cmNmdDRjbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/85LqFm93v07M4i4W2g/giphy.gif" width="180" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/Faith3494">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+SC&weight=600&size=20&duration=3000&pause=1000&color=2E86C1&center=true&vCenter=true&width=800&lines=代号：实验品+626+(Tigro)+已上线！;主线任务：写代码（偶尔制造点小混乱）;支线任务：吃掉所有的+BUG！(嗷呜~);Ohana+就是家人，不抛弃，不放弃...;（除了那个死活调不出来的+Bug+🙃）" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+SC&weight=600&size=22&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=900&lines=程序可以报错；人生不能停止编译。;正在尝试驯服BUG...;如果你看到这里，说明主页运行正常。;如果主页异常，请尝试重启作者。">
 </p>
 
 ---
 
-## 👽 关于我：Tigro 的地球观测站
+## 📋 基本信息
 
-> <img src="https://raw.githubusercontent.com/Faith3494/Faith3494/main/assets/stitch_happy.gif" width="50" align="left" style="margin-right: 15px;"/> **欢迎来到我的秘密基地！** 当我不在四处捣乱或者寻找食物的时候，我通常潜伏在这里，研究地球人称之为“代码”的神秘符文。
+```text
+姓名：小脑斧（Tigro）
 
-强霸博士说我是一名**嵌入式系统工程师**，但其实我只是一只热爱以下活动的毛茸茸外星生物：
+职业：
+    嵌入式炼丹师
 
-* 🐞 **狂啃 Bug**：C++ 和 Python 里的 Bug 嘎嘣脆！Bug 不动我先动，一口一个小朋友。
-* ⚡ **玩弄电线与芯片**：沉迷 PCB 画板，喜欢各种闪闪发光的 STM32 / ESP32 小零件。
-* 🌪️ **全栈大乱斗**：偶尔也会跑到前端（Vue）和后端（Spring Boot / Flask）去制造一点“有组织有纪律的混乱”。
-* 💙 **Ohana 精神**：代码写得再烂也是自己写的，含着泪也要调到运行一次就成功！
+爱好：
+    让不会亮的东西亮起来
 
----
+特长：
+    制造BUG
+    消灭BUG
+    制造更大的BUG
 
-## 🛠️ 我的“破坏”工具箱
+精神状态：
+    [动态链接库加载中...]
 
-> 强霸博士教我用这些工具来创造（或者修理我弄坏的东西）。
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C/C%2B%2B-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PCB_Layout-333333?style=for-the-badge&logo=altium&logoColor=white"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=white"/>
-</p>
+运行时间：
+    23 Years
+```
 
 ---
 
-## 📈 实验品战力评估 (地球联邦追踪数据)
+## 📊 今日任务
+
+* [x] 起床
+* [x] 到公司
+* [x] 打开 IDE
+* [x] 编译通过
+* [ ] 一次运行成功
+* [ ] 不产生新BUG
+
+---
+
+## 🛠 技能树
+
+```text
+STM32        ██████████░ 95%
+
+Qt           ████████░░░ 80%
+
+Linux        ██████░░░░░ 60%
+
+PCB          ████████░░░ 80%
+
+Git          ███████░░░░ 70%
+
+摸鱼         ██████████░ 99%
+
+BUG制造      ███████████ 114%
+```
+
+---
+
+## 🚧 当前施工现场
+
+### 数显表
+
+```text
+功能数量：      100
+
+BUG数量：       101
+
+运行状态：      勉强正常
+
+项目评价：
+
+BUG暂时领先
+```
+
+---
+
+### ORBIT
+
+```text
+项目进度：
+
+[██████░░░░░░░░░░░]
+
+PCB：
+    画了一半
+
+软件：
+    想了一半
+
+文档：
+    没开始
+
+信心：
+    拉满
+```
+
+---
+
+## 📜 系统日志
+
+```log
+[08:30] 到达公司
+
+[08:35] 打开电脑
+
+[09:20] 新增功能
+
+[09:21] 功能损坏
+
+[09:22] 修复功能
+
+[09:23] 出现新BUG
+
+[09:24] 怀疑人生
+
+[09:25] 喝水续命
+
+[18:00] 下班
+
+[22:47] 为什么还在改BUG？
+```
+
+---
+
+## 🧠 设备信息
+
+```yaml
+Model: Human_v23.0
+
+CPU:
+  勉强够用
+
+RAM:
+  永远不够
+
+Storage:
+  已接近满载
+
+Cooling:
+  靠风扇和意志力
+
+Power:
+  咖啡因驱动
+
+System:
+  TigroOS
+
+Kernel Panic:
+  偶尔发生
+
+Auto Recovery:
+  睡一觉
+```
+
+---
+
+## 🔄 版本更新日志
+
+```text
+v18.0
+
+新增：
+    熬夜功能
+
+修复：
+    早睡习惯
+
+------------------------
+
+v20.0
+
+新增：
+    上班功能
+
+修复：
+    学生身份
+
+------------------------
+
+v23.0
+
+新增：
+    自行车
+
+优化：
+    通勤效率
+
+已知问题：
+    钱包容量不足
+
+修复计划：
+    等下个版本
+```
+
+---
+
+## 📈 战斗力检测报告
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Faith3494&show_icons=true&theme=nord&title_color=21618C&text_color=2E86C1&icon_color=21618C&hide_border=true&locale=cn" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faith3494&layout=compact&theme=nord&title_color=21618C&text_color=2E86C1&hide_border=true" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Faith3494&show_icons=true&theme=transparent&hide_border=true" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faith3494&layout=compact&theme=transparent&hide_border=true" width="40%">
 </p>
 
 ---
 
-## 🏆 收集的亮闪闪战利品
+## 📢 公告
 
-> 有些是别人给的，有些……是我顺手拿来玩的。
+如果你发现我的代码有问题：
+
+请提 Issue。
+
+如果你发现我的代码没有问题：
+
+请不要告诉我。
+
+因为我还没发现。
+
+---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Faith3494&theme=oceanic&row=1&column=6&margin-w=15&background=ffffff00" />
+
+**程序可以报错。**
+
+**但人生不能停止编译。**
+
 </p>
 
 ---
 
-## 🤝 加入 Ohana！
-
-**Ohana 就是家人。** 在我的基地，欢迎任何想一起搞点创造（或者一起吃 Bug）的朋友！
-
-* 有想让我帮忙“搞砸”的项目吗？
-* 想一起研究怎么把电路板画得更漂亮吗？
-* 或者只是想吐槽一下今天遇到的离谱 Bug？随时找我！
-
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3pjdW12Z2d1M2Q0eWkyeGt5OGVtdDNwOWp0OTJzdzd3cmNmdDRjbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/43yby7i0i5i5M28L5S/giphy.gif" width="120"/>
-</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Faith3494&label=偷偷看Tigro的人数&style=flat-square&color=21618C" />
+*本页面由本人维护。*
+
+*如果出现异常，请尝试重启作者。*
+
 </p>
